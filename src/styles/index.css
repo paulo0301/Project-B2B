@@ -81,3 +81,10 @@ div.error-message img{
     width: 30px;
     margin-right: 15px;
 }
+.react-icons{
+    vertical-align: middle;
+    margin-right: 6px;
+    width: 1.7rem;
+    height: 1.7rem;
+    color: red;
+}

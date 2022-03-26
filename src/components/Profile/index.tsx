@@ -12,8 +12,7 @@ export function Profile(){
         auth.logout();
         navigate('/');
     }
-
-
+    
     return(
         <div className="container-profile">
             <div className="container-btn-logout">
